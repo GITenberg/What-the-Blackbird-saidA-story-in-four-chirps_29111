@@ -1,0 +1,39 @@
+_repo: What-the-Blackbird-saidA-story-in-four-chirps_29111
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+covers:
+- cover_type: archival
+  image_path: 29111-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Locker-Lampson, Hannah Jane
+    aliases:
+    - Locker, F., Mrs.
+    - Locker, Frederick, Mrs.
+    gutenberg_agent_id: '33700'
+    url: http://www.gutenberg.org/2009/agents/33700
+description: ''
+gutenberg_issued: '2009-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Birds -- Juvenile literature'
+- !lcsh 'Seasons -- Juvenile literature'
+title: 'What the Blackbird said
+
+  A story in four chirps'
+url: http://www.gutenberg.org/ebooks/29111
